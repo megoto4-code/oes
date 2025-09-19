@@ -1,0 +1,52 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background: #f9f9f9;
+	padding: 20px 0;
+}
+
+.tb {
+	margin: 20px 0;
+}
+
+.container {
+	border: 1px solid #aaa;
+	background: #ccc;
+	border-radius: 5px;
+}
+
+#header, #footer {
+	background: #ccc;
+	color: #fff;
+}
+
+#content {
+	background: #fff;
+	border-radius: 10px;
+}
+
+#footer {
+	padding: 20px 0;
+	text-align: center;
+}
+
+.top-offset {
+	margin-top: 20px;
+}
+ol li {
+	line-height: 2em;
+}
+.gap-left {
+	margin-left: 8px;
+}
+
+.gap-bottom {
+	margin-bottom: 10px;
+}
+
+.pointer {
+	cursor: pointer;
+}
+.marksheet {
+	font-size: 1.5em;
+}

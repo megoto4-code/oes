@@ -1,0 +1,113 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background: #fff;
+}
+
+#login {
+	background: #fff;
+	border-radius: 5px;
+	border: 1px solid #aaa;
+}
+
+h2 small {
+	font-size: 0.5em;
+}
+
+.bottom-gap1 {
+	margin: 0 5px 5px;
+	width: 55px;
+	font-weight: bold;
+}
+
+.pointer {
+	cursor: pointer;
+}
+
+#header {
+	background-color: #286090;
+	box-shadow: 0 0 10px 1px #C7C7C7;
+}
+
+#header a {
+	color: #fff;
+}
+
+#header .active a {
+	color: #333;
+	font-weight: bold;
+}
+
+.timer {
+	/*background-color: #449D44;*/
+	
+}
+
+#questionNos {
+	padding: 5px;
+	margin: -10px 0 5px;
+}
+
+#nav {
+	background: #f9f9f9;
+	border: 1px dashed #999;
+	border-width: 1px 0;
+}
+
+#nav h2 {
+	margin: 15px;
+	width: 250px;
+}
+
+#nav .btn-lg {
+	margin: 10px;
+}
+
+#nav .btn-group {
+	margin: 15px;
+}
+
+#question {
+	margin: 10px -10px 0 -5px;
+	border: 1px dashed #999;
+	padding: 10px;
+	font-size: 1.5em;
+	height: 450px;
+}
+#mark {
+	margin: 10px 0;
+	text-align: center; 
+}
+#options {
+	margin: 10px -5px 0 -10px;
+	border: 1px dashed #999;
+	padding: 10px;
+	font-size: 1.2em;
+	text-align: left;
+	height: 450px;
+	color: #000;
+}
+
+#options b {
+	
+}
+
+.active b {
+	color: #fff;
+}
+
+#timer {
+	display: inline-block;
+	margin: -15px 0;
+	padding: 8px 0;
+	width: 80px;
+	text-align: center;
+	background: #fff;
+	color: #000;
+	border-radius: 5px;
+	box-shadow: 0 0 10px 1px #C7C7C7 inset;
+}
+
+.btn-warning {
+	color: #000;
+}
